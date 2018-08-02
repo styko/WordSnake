@@ -12,6 +12,7 @@ For instance, take this sequence of words:
 SHENANIGANS SALTY YOUNGSTER ROUND DOUBLET TERABYTE ESSENCE
 Notice that the last letter in each word is the same as the first letter in the next word. In order to make this into a word snake, you simply snake it across the screen
 
+```
 SHENANIGANS        
           A        
           L        
@@ -28,6 +29,7 @@ SHENANIGANS
             Y      
             T      
             ESSENCE
+```    
 Your task today is to take an input word sequence and turn it into a word snake. Here are the rules for the snake:
 
 It has to start in the top left corner
