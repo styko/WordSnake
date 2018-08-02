@@ -44,3 +44,4 @@ The input will be a single line of words (written in ALL CAPS). The last letter 
 
 Output
 Your word snake! Make it look however you like, as long as it follows the rules.
+
